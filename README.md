@@ -9,3 +9,13 @@ Komponen yang digunakan:
 2. Xbee pro s2c
 3. adaptor xbee
 4. sensor MPU6050
+
+Penjelasan file program
+**#APP_SPORTMONITORING.py**
+program ini adalah program yang akan menampilkan GUI dan akan mempermudah dalam proses pengambilan data
+
+**#MPU6050_test1.ino**
+program pada arduino untuk melakukan pengukuran menggunakan accelerometer dan gyroscope
+
+**#DATA**
+pada folder data terdapat beberapa hasil pengambilan data yang bisa digunakan untuk analisis lebih lanjut
