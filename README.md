@@ -19,3 +19,5 @@ program pada arduino untuk melakukan pengukuran menggunakan accelerometer dan gy
 
 **#DATA**
 pada folder data terdapat beberapa hasil pengambilan data yang bisa digunakan untuk analisis lebih lanjut
+
+Mohon untuk melakukan sitasi pada jurnal berikut: https://ieeexplore.ieee.org/document/9263445
